@@ -6,6 +6,5 @@
 ### Languages and Tools:
 
 <br />
-<br />
 
 ### 📺 Apps on Youtube
