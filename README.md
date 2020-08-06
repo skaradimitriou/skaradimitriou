@@ -8,12 +8,4 @@
 <br />
 <br />
 
----
-
 ### 📺 Apps on Youtube
-
-
-
----
-
-[linkedin]: https://www.linkedin.com/in/ekaradimitriou/
