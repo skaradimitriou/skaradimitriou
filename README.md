@@ -9,6 +9,4 @@
 - Java
 - Kotlin
 
-<br />
-
 ### 💻 My Apps :
