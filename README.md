@@ -11,3 +11,7 @@
 - Kotlin
 
 ### 💻 My Apps :
+
+- [Εφαρμογή Φοιτητών Τμήματος ΔΕΤ Αγ. Νικολάου](https://mst.hmu.gr/ypiresies/mobile-epharmogh-tmhmatos/) | Java | MVVM | Jsoup | Picasso
+- [Moviepedia](https://github.com/skaradimitriou/Moviepedia) | Kotlin | MVVM | Gson | Glide | OkHttp | Firebase
+- Foodys | Java | Project Future - Android App Development Course Capstone Project | Java
