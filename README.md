@@ -13,4 +13,5 @@
 
 - [Εφαρμογή Φοιτητών Τμήματος ΔΕΤ Αγ. Νικολάου](https://mst.hmu.gr/ypiresies/mobile-epharmogh-tmhmatos/) | Java | MVVM | Jsoup | Gson | Picasso | Room Database
 - [Moviepedia](https://github.com/skaradimitriou/Moviepedia) | Kotlin | MVVM | Gson | Glide | OkHttp | Firebase
-- <strong>Foodys</strong> | [Project Future](https://www.projectfuture.gr/) - Android App Development Course Capstone Project | Java | Volley | Gson | Picasso | Room DB
+- <strong>Foodys</strong> | [Project Future](https://www.projectfuture.gr/) - Android App Development Course Capstone Project | Java | Volley | Gson | Picasso | Room DB | 🔜
+- <strong>13033 SMS - Movement During Lockdown </strong> 🔜 In Progress 
