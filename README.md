@@ -1,8 +1,8 @@
 ### Hi there, my name is Stathis 👋
 
-- 💼 Junior Software Developer @ Generali Hellas
+- 💼 Junior Software Developer @ [Generali](https://www.generali.gr/el/) Hellas
 - 🎓 Recently graduated from [TEI of Crete](https://mst.hmu.gr/) (Business Administration | Major: Information Systems)
-- 🏆 [Project Future](https://www.projectfuture.gr/) powered by [ReGeneration](https://www.regeneration.gr/) Finalist
+- 🏆 [Project Future](https://www.projectfuture.gr/) powered by [ReGeneration](https://www.regeneration.gr/) Finalist | Android App Development
 - 👯 I’m looking to expand my skills & knowdledge on android development
 - 🥅 2021 Goals: Learn about Android Design Patterns & Architecture | Learn RxJava & Dagger2 | Learn how to implement UnitTests
 
