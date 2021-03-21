@@ -14,7 +14,7 @@
 
 - [Εφαρμογή Φοιτητών Τμήματος ΔΕΤ Αγ. Νικολάου](https://mst.hmu.gr/ypiresies/mobile-epharmogh-tmhmatos/) | Java | MVVM | Jsoup | Gson | Picasso | Room Database | 5 ⭐ on Store
 - [Moviepedia](https://github.com/skaradimitriou/Moviepedia) | Kotlin | MVVM | Gson | Glide | OkHttp | Firebase | Refactor 🔜
-- [Foodys](https://github.com/skaradimitriou/Foodys) | [Project Future](https://www.projectfuture.gr/) - Android App Development Course Capstone Project | Java | Volley | Gson | Glide | Firebase Auth,Realtime Db & Storage  
+- [Foodys](https://github.com/skaradimitriou/Foodie) | [Project Future](https://www.projectfuture.gr/) - Android App Development Course Capstone Project (Refactored) | Kotlin | Retrofit | Gson | Glide | Firebase Auth,Realtime Db & Storage  
 - [13033 SMS](https://play.google.com/store/apps/details?id=com.stathis.movementsms) - Movement During Lockdown | Kotlin | Room Database
 - [Pokedex](https://github.com/skaradimitriou/pokedex) - A digital encyclopedia about pokemons in your android phone | Kotlin | Retrofit | RxJava | Dagger2 | Coil | Single Activity Concept
 - [Marvel World](https://github.com/skaradimitriou)  Kotlin | Coroutines | Retrofit | RxJava | Dagger2 | Glide | RoomDb | Firebase  | 🔜
