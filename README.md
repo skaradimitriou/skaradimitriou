@@ -9,7 +9,11 @@
 ### 🛠 Languages and Tools :
 
 ```JSON
-{ "languages": [ "Java", "Kotlin", "Python" ] }
+{ "languages": [
+                 "Java", 
+                 "Kotlin", 
+                 "Python" 
+               ] }
 ``` 
 
 ### 📱 My Mobile Apps :
