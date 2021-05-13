@@ -8,8 +8,8 @@
 
 ### 🛠 Languages and Tools :
 
-```kt
-var languages = listOf("Java", "Kotlin", "Python")
+```JSON
+{ "languages": [ "Java", "Kotlin", "Python" ] }
 ``` 
 
 ### 📱 My Mobile Apps :
