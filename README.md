@@ -7,7 +7,14 @@
 - 🥅 2021 Goals: Learn about Android Design Patterns & Architecture | Learn RxJava & Dagger2 | Learn how to implement UnitTests
 
 ### 🛠 Languages and Tools :
-{ "one": 2, "three": { "point_1": "point_2", "point_3": 3.4 }, "list": [ "one", "two", "three" ] } </br>
+
+```JSON
+{
+ "key": "value",
+ "key": "value",
+ "key": "value"
+}
+``` 
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
