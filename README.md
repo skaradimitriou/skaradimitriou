@@ -2,6 +2,7 @@
 
 - 💼  Junior Software Developer @ [Generali](https://www.generali.gr/el/) Hellas
 - 🎓  Recently graduated from [TEI of Crete](https://mst.hmu.gr/) (Business Administration | Major: Information Systems)
+- 🎓  Will start studying for my Masters Degree in Informatics on October at [University of Piraeus](https://www.unipi.gr/unipi/el/) (UoP)
 - 🏆. [Project Future](https://www.projectfuture.gr/) powered by [ReGeneration](https://www.regeneration.gr/) Finalist | Android App Development
 - 🖥️  Passionate about Android Development 
 - 🚀  I enjoy transforming ideas into real projects
