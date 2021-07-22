@@ -20,4 +20,4 @@ var languages = listOf("Java", "Kotlin", "Python")
 - [Foodie](https://github.com/skaradimitriou/Foodie) | [Project Future](https://www.projectfuture.gr/) - Android App Development Course Capstone Project (Refactored) | Kotlin | Retrofit | Gson | Glide | Firebase Auth,Realtime Db & Storage  
 - [13033 SMS](https://play.google.com/store/apps/details?id=com.stathis.movementsms) - Movement During Lockdown | Kotlin | Room Database
 - [Pokedex](https://github.com/skaradimitriou/pokedex) - A digital encyclopedia about pokemons in your android phone | Kotlin | Retrofit | RxJava | Dagger2 | Coil | Single Activity Concept
-- MyDoctor
+- [MyDoctor](https://github.com/skaradimitriou/MyDoctor) - An app about doctors | Kotlin | MVVM | Firebase Auth, Firestore, Storage | Glide
