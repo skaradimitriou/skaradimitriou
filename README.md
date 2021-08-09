@@ -6,6 +6,7 @@
 - 🏆  [Project Future](https://www.projectfuture.gr/) powered by [ReGeneration](https://www.regeneration.gr/) Finalist | Android App Development
 - 🖥️  Passionate about Android Development 
 - 🚀  I enjoy transforming ideas into real projects
+- 📙  Currently learning Jetpack Compose
 
 ### 🛠 Languages and Tools :
 
