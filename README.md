@@ -22,3 +22,4 @@ var languages = listOf("Java", "Kotlin", "Python")
 - [13033 SMS](https://play.google.com/store/apps/details?id=com.stathis.movementsms) - Movement During Lockdown | Kotlin | Room Database
 - [Pokedex](https://github.com/skaradimitriou/pokedex) - A digital encyclopedia about pokemons in your android phone | Kotlin | Retrofit | RxJava | Dagger2 | Coil | Single Activity Concept
 - [MyDoctor](https://github.com/skaradimitriou/MyDoctor) - An app about doctors | Kotlin | MVVM | Firebase Auth, Firestore, Storage | Glide | EasyPermissions
+- [Runney](https://github.com/skaradimitriou/Runney) - An app about running races | Kotlin
