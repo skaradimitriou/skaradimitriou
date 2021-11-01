@@ -26,7 +26,7 @@
             "description" : "Project Futurepowered by ReGeneration Finalist | Android App Development"
          }
    ],
-   "passionateAbout": [ "Android App Development", "Innovation", "" ],
+   "passionateAbout": [ "Android App Development", "Innovation", "Learning new things" ],
    "sports": [ "Running" , "Martial Arts" ]
 }
 ``` 
