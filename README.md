@@ -16,7 +16,27 @@ var languages = listOf("Java", "Kotlin", "Python")
 
 ```yaml
 {
-   "this-json": "looks awesome..."
+   "fullName": "Stathis Karadimitriou",
+   "headline" : "Junior Software Engineer",
+   "currentRole": "Junior Software Developer",
+   "company": "Generali Hellas",
+   "languages" : [ "Java", "Kotlin, "Python"
+   "education" : [
+        {
+           "degree" : "Master in Informatics",
+           "Institute" : "University of Piraeus, UoP",
+           "inProgress" : true
+        },
+        {
+           "degree" : "Bachelor in Business Administration",
+           "major" : "Information Systems",
+           "Institute" : "TEI of Crete",
+           "inProgress" : false
+        }
+   ]
+   
+   "passions": [ "Android App Development", "Innovation", ""
+   "sports": [ "Running" , "Martial Arts" ]
 }
 ``` 
 
