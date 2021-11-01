@@ -14,7 +14,7 @@
 var languages = listOf("Java", "Kotlin", "Python")
 ``` 
 
-```yaml
+```json
 {
    "fullName": "Stathis Karadimitriou",
    "headline" : "Junior Software Engineer",
