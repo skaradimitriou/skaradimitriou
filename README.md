@@ -1,18 +1,5 @@
 ### Hi there, my name is Stathis 👋
 
-- 💼  Junior Software Developer @ [Generali](https://www.generali.gr/el/) Hellas
-- 🎓  Graduated from [TEI of Crete](https://mst.hmu.gr/) (Business Administration | Major: Information Systems)
-- 🎓  Studying for my Master's Degree in Informatics at [University of Piraeus](https://www.unipi.gr/unipi/el/) (UoP)
-- 🏆  [Project Future](https://www.projectfuture.gr/) powered by [ReGeneration](https://www.regeneration.gr/) Finalist | Android App Development
-- 🖥️  Passionate about Android Development 
-- 🚀  I enjoy transforming ideas into real projects
-- 📙  Currently learning Jetpack Compose
-
-### 🛠 Languages and Tools :
-
-```kt
-var languages = listOf("Java", "Kotlin", "Python")
-``` 
 
 ```json
 {
@@ -20,7 +7,7 @@ var languages = listOf("Java", "Kotlin", "Python")
    "headline" : "Junior Software Engineer",
    "currentRole": "Junior Software Developer",
    "company": "Generali Hellas",
-   "languages" : [ "Java", "Kotlin, "Python"
+   "languages" : [ "Java", "Kotlin, "Python" ],
    "education" : [
         {
            "degree" : "Master in Informatics",
@@ -33,9 +20,13 @@ var languages = listOf("Java", "Kotlin", "Python")
            "Institute" : "TEI of Crete",
            "inProgress" : false
         }
-   ]
-   
-   "passions": [ "Android App Development", "Innovation", ""
+   ],
+   "accomplishments" : [
+         {
+            "description" : "Project Futurepowered by ReGeneration Finalist | Android App Development"
+         }
+   ],
+   "passionateAbout": [ "Android App Development", "Innovation", "" ],
    "sports": [ "Running" , "Martial Arts" ]
 }
 ``` 
