@@ -18,12 +18,15 @@
            "degree" : "Bachelor in Business Administration",
            "major" : "Information Systems",
            "Institute" : "TEI of Crete",
+           "thesisTitle" : "Comparison & Evaluation of Online Banking Systems"
            "inProgress" : false
         }
    ],
    "accomplishments" : [
          {
-            "description" : "Project Futurepowered by ReGeneration Finalist | Android App Development"
+            "description" : "Project Future powered by ReGeneration Finalist | Android App Development",
+            "issuedBy" : "Piraeus Bank",
+            "issueDate" : "April 2020",
          }
    ],
    "passionateAbout": [ "Android App Development", "Innovation", "Learning new things" ],
