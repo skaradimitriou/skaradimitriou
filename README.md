@@ -7,7 +7,7 @@
    "headline" : "Junior Software Engineer",
    "currentRole": "Junior Software Developer",
    "company": "Generali Hellas",
-   "languages" : [ "Java", "Kotlin", "Python" ],
+   "languages" : [ "Java", "Kotlin", "Python", "C" ],
    "education" : [
         {
            "degree" : "Master in Informatics",
