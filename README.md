@@ -36,7 +36,7 @@
 
 ### 📱 My Mobile Apps :
 
-- [Εφαρμογή Φοιτητών Τμήματος ΔΕΤ Αγ. Νικολάου](https://mst.hmu.gr/ypiresies/mobile-epharmogh-tmhmatos/) | Kotlin | MVVM | Coroutines | Data Binding | Navigation Component | Jsoup | Gson | Picasso | Room Database | 5 ⭐ on Store 
+- [Εφαρμογή Φοιτητών Τμήματος ΔΕΤ Αγ. Νικολάου](https://mst.hmu.gr/ypiresies/mobile-epharmogh-tmhmatos/) | Kotlin | MVVM | Coroutines | Data Binding | Navigation Component | Merlin | Jsoup | Gson | Picasso | Room Database | 5 ⭐ on Store 
 - [Moviepedia](https://github.com/skaradimitriou/Moviepedia) | Kotlin | MVVM | Gson | Glide | Retrofit | Firebase | Refactor 🔜
 - [Foodie](https://github.com/skaradimitriou/Foodie) | [Project Future](https://www.projectfuture.gr/) - Android App Development Course Capstone Project (Refactored) | Kotlin | Retrofit | Gson | Glide | Firebase Auth,Realtime Db & Storage  
 - [13033 SMS](https://play.google.com/store/apps/details?id=com.stathis.movementsms) - Movement During Lockdown | Kotlin | Room Database
