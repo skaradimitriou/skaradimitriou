@@ -4,9 +4,7 @@
 ```json
 {
    "fullName": "Stathis Karadimitriou",
-   "headline" : "Junior Software Engineer",
-   "currentRole": "Junior Software Developer",
-   "company": "Generali Hellas",
+   "headline" : "Junior Android Engineer",
    "languages" : [ "Java", "Kotlin", "Python", "C" ],
    "education" : [
         {
