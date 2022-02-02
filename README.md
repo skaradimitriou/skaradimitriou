@@ -4,7 +4,7 @@
 ```json
 {
    "fullName": "Stathis Karadimitriou",
-   "headline" : "Junior Android Engineer",
+   "headline" : "Junior Android Developer",
    "languages" : [ "Java", "Kotlin", "Python", "C" ],
    "education" : [
         {
