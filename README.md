@@ -32,7 +32,7 @@
 }
 ``` 
 
-### 📱 My Mobile Apps :
+<h2 align="center">My Mobile Apps 📱</h2>
 
 | <img src="https://user-images.githubusercontent.com/64270931/155697639-e6aefa1b-c784-4cb2-8377-2473b839c46d.png" width=40% height=40%> | <img src="https://user-images.githubusercontent.com/64270931/155697017-feb2a3e3-e09d-46c5-b4a0-9c2e8721a0f5.png" width=50% height=50%>  | <img src="https://user-images.githubusercontent.com/64270931/155700048-bd643df8-f784-41ad-bbdc-2979817f01b4.png" width=50% height=50%>   | <img src="https://user-images.githubusercontent.com/64270931/155700066-aa7fa553-239f-42fc-9e3e-7f223215ed04.png" width=50% height=50%>  |
 | ------------- | ------------- | ------------- | ------------- | 
