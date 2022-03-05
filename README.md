@@ -4,7 +4,7 @@
 {
    "fullName": "Stathis Karadimitriou",
    "headline" : "Junior Android Developer",
-   "languages" : [ "Java", "Kotlin", "Python", "C" ],
+   "languages" : [ "Kotlin", "Java", "Python", "C" ],
    "education" : [
         {
            "degree" : "Master in Informatics",
