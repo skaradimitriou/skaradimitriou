@@ -8,13 +8,14 @@
    "education" : [
         {
            "degree" : "Master in Informatics",
-           "Institute" : "University of Piraeus, UoP",
-           "inProgress" : true
+           "university" : "University of Piraeus, UoP",
+           "inProgress" : true,
+           "currentSemester" : "B"
         },
         {
            "degree" : "Bachelor in Business Administration",
            "major" : "Information Systems",
-           "Institute" : "TEI of Crete",
+           "university" : "TEI of Crete",
            "thesisTitle" : "Comparison & Evaluation of Online Banking Systems"
            "inProgress" : false
         }
