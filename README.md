@@ -1,14 +1,16 @@
-![android_dev_banner_sm](https://user-images.githubusercontent.com/64270931/180308499-deb88bcc-d802-4cb8-a61e-135c83c070fb.png)
+![android_dev_banner_sm](https://user-images.githubusercontent.com/64270931/180309746-00c0b559-c934-4785-8e7e-21a43b4f8d19.png)
 
-- 🔭 I’m currently working on [University of Piraeus Student App](https://github.com/skaradimitriou/unipi-app)
+<h3 align="left">About Me</h3>
 
-- 🌱 I’m currently learning **C#**
-
-- 📫 How to reach me **efkaradimitriou@gmail.com**
+- 💼 Working for Cognity in a FinTech mobile applicatin
+- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
+- 🎓 I have a Bachelor's Degree in Business Administration with a minor in Management Information Systems.
+- 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme.
 
 <h3 align="left">Connect with me</h3>
 <a href="https://linkedin.com/in/ekaradimitriou" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ekaradimitriou"/></a>
 <a href="https://instagram.com/s.karadimitriou" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="s.karadimitriou" /></a>
+<a href="mailto:efkaradimitriou@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
 
 </p>
 
