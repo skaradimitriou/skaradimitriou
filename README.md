@@ -2,10 +2,10 @@
 
 <h3 align="left">About Me</h3>
 
-- 💼 Working for Cognity in a FinTech mobile applicatin
+- 💼 Working for Cognity in a FinTech mobile application
 - 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
-- 🎓 I have a Bachelor's Degree in Business Administration with a minor in Management Information Systems.
-- 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme.
+- 🎓 I have a Bachelor's Degree in Business Administration with a minor in Management Information Systems
+- 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
 
 <h3 align="left">Connect with me</h3>
 <a href="https://linkedin.com/in/ekaradimitriou" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ekaradimitriou"/></a>
