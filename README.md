@@ -6,6 +6,7 @@
 - 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
 - 🎓 I have a Bachelor's Degree in Business Administration with a minor in Management Information Systems
 - 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
+- 🏅 In my free time, I enjoy running around the city
 
 <h3 align="left">Connect with me</h3>
 <a href="https://linkedin.com/in/ekaradimitriou" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ekaradimitriou"/></a>
@@ -31,7 +32,15 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<h3 align="left">Design Tools</h3>
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=skaradimitriou&show_icons=true&locale=en&layout=compact" alt="skaradimitriou" /></p>
+
 
 
 <h3 align="center">My Mobile Apps 📱</h3>
