@@ -4,7 +4,8 @@
 
 - 💼 Working for Cognity in a FinTech mobile application
 - 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
-- 🎓 I have a Bachelor's Degree in Business Administration with a minor in Management Information Systems
+- 🚀 [Project Future](https://www.projectfuture.gr/) powered by ReGeneration Finalist | 4th Cycle | Android App Development
+- 🎓 Bachelor's Degree in Business Administration with a minor in Management Information Systems
 - 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
 - 🏅 In my free time, I enjoy running around the city
 
@@ -25,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <h3 align="left">Databases & Tools</h3>
 
