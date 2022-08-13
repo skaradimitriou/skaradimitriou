@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h3>
 
 - 💼 Working for Cognity in a FinTech mobile application
-- 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus
+- 🎓 Currently studying for my Master's Degree in Informatics at [University of Piraeus](https://www.cs.unipi.gr/index.php?lang=el)
 - 🚀 [Project Future](https://www.projectfuture.gr/) powered by ReGeneration Finalist | 4th Cycle | Android App Development
 - 🎓 Bachelor's Degree in Business Administration with a minor in Management Information Systems
 - 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
