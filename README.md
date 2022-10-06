@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 💼 Working for Cognity in a FinTech mobile application
+- 💼 Working for Cognity in [Payzy](https://www.payzy.gr/) (FinTech mobile application)
 - 🎓 Currently studying for my Master's Degree in Informatics at [University of Piraeus](https://www.cs.unipi.gr/index.php?lang=el)
 - 🚀 [Project Future](https://www.projectfuture.gr/) powered by ReGeneration Finalist | 4th Cycle | Android App Development
 - 🎓 Bachelor's Degree in Business Administration with a minor in Management Information Systems
