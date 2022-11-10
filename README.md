@@ -6,7 +6,7 @@
 - 🎓 Currently studying for my Master's Degree in Informatics at [University of Piraeus](https://www.cs.unipi.gr/index.php?lang=el)
 - 🚀 [Project Future](https://www.projectfuture.gr/) powered by ReGeneration Finalist | 4th Cycle | Android App Development
 - 🎓 Bachelor's Degree in Business Administration with a minor in Management Information Systems
-- 🚀 Started coding 2 years ago thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
+- 🚀 Started coding in 2020 thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
 - 🏅 In my free time, I enjoy running around the city
 
 <h3 align="left">Connect with me</h3>
