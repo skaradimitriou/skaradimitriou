@@ -7,7 +7,7 @@
 - 🚀 [Project Future](https://www.projectfuture.gr/) powered by ReGeneration Finalist | 4th Cycle | Android App Development
 - 🎓 Bachelor's Degree in Business Administration (major in Management Information Systems) at [Hellenic Mditerranean University](https://mst.hmu.gr/)
 - 🚀 Started coding in 2020 thanks to ReGeneration's [Project Future](https://www.projectfuture.gr/) Programme
-- 🏅 In my free time, I enjoy running around the city
+- 🏅 In my free time, I enjoy running (5K up to 21K)
 
 <h3 align="left">Connect with me</h3>
 <a href="https://linkedin.com/in/ekaradimitriou" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ekaradimitriou"/></a>
