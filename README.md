@@ -4,20 +4,33 @@
 
 ```json
 {
-  "pronouns": ["He", "Him"],
-  "codesIn": ["Kotlin", "Java", "Python", "C#", "HTML", "CSS", "JS", "PHP"],
-  "askMeAbout": ["Android", "Mobile apps", "Android dev", "App dev"],
-  "currentWorkingRole": {
-    "role": "Android Engineer",
-    "employer": "Cognity S.A",
-    "projects": "Payzy & Payzy Pro"
+  "title": "Welcome to the Adventurous Realm of Android Wizardry! ✨",
+  "description": "Greetings, brave adventurers! Welcome to my enchanted GitHub tavern! 🛖",
+  "letsTalkAbout": [ "Android", "Mobile Apps", "Android Development", "Application Development" ],
+  "skills" : [
+      "Android Wizardry 🧙",
+      "Mobile Development Enchantments ⚗️",
+      "Android Application Charms 🔮",
+      "Kotlin Spells 🪄",
+      "Git Potions 🧪"
+  ]
+  "currentlyWorkingAs": {
+      "role": "Android Engineer",
+      "employer": "Cognity S.A",
+      "projects": "Payzy & Payzy Pro Android Applications"
   },
   "education" : [
-     "masters" : "MSc in Informatics | University of Piraeus (UoP)",
-     "bachelor" : {
-        "title" : "Business Administration | Hellenic Mediterranean University (HMU)"
-        "major" : "Management Information Systems (M.I.S)"
+      "masters" : {
+          "title" : "MSc in Informatics | University of Piraeus (UoP)"
+      },
+      "bachelor" : {
+          "title" : "Business Administration | Hellenic Mediterranean University (HMU)"
+          "major" : "Management Information Systems (M.I.S)"
       }
+  ],
+  "hobbies" : [
+      "Running 🏃",
+      "Reading 📖"
   ]
 }
 ```
