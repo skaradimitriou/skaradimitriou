@@ -4,8 +4,8 @@
 
 ```json
 {
-  "title": "Welcome to the Adventurous Realm of Android Wizardry! ✨",
-  "description": "Greetings, brave adventurers! Welcome to my enchanted GitHub tavern! 🛖",
+  "title": "Greetings, brave adventurers!",
+  "description": "Welcome to the Adventurous Realm of Android Wizardry! ✨",
   "letsTalkAbout": [ "Android", "Mobile Apps", "Android Development", "Application Development" ],
   "skills" : [
       "Android Wizardry 🧙",
