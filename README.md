@@ -20,7 +20,7 @@
       "projects": "Payzy & Payzy Pro Android Applications"
   },
   "education" : [
-      "masters" : {
+      "master" : {
           "title" : "MSc in Informatics | University of Piraeus (UoP)"
       },
       "bachelor" : {
