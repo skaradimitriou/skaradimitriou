@@ -14,11 +14,6 @@
       "Kotlin Spells 🪄",
       "Git Potions 🧪"
   ]
-  "currentlyWorkingAs": {
-      "role": "Android Engineer",
-      "employer": "Cognity S.A",
-      "projects": "Payzy & Payzy Pro Android Applications"
-  },
   "education" : [
       "master" : {
           "title" : "MSc in Informatics | University of Piraeus (UoP)"
