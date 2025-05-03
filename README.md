@@ -24,8 +24,8 @@
       }
   ],
   "hobbies" : [
-      "Running 🏃 - Training to beat my Half Marathon time on March",
-      "Reading 📖 - Reading my 7th book for this year."
+      "Running 🏃",
+      "Reading 📖"
   ]
 }
 ```
