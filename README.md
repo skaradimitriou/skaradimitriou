@@ -1,5 +1,3 @@
-![android_dev_banner_sm](https://user-images.githubusercontent.com/64270931/180309746-00c0b559-c934-4785-8e7e-21a43b4f8d19.png)
-
 <h3 align="center">About Me</h3>
 
 ```json
